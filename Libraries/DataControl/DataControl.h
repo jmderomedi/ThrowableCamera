@@ -1,5 +1,5 @@
-#ifndef Sensor_Arrays_h
-#define Sensor_Arrays_h
+#ifndef DataControl_h
+#define DataControl_h
 
 #if ARDUINO >= 100
 #include "Arduino.h"
