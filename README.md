@@ -3,7 +3,6 @@
 
 ### Author ###
 James Deromedi
-Currently a Junior at American University
 
 ### Licensing ###
 The code and other files contained in this repo are beer-ware, which is open and available for public use. All the files in this repo are free to use but please consider buying me a beer if you use them. This project was created by me to gain knowledge in the Arduino language and my first steps into dealing with hardware.
@@ -14,14 +13,6 @@ This repository is for the code documentation of the Throw-able Camera project. 
 
 Version: Pre-Alpha 1.0
 
-### How do I get set up? ###
-
-Setup:
-This is the current list of devices needed.
->
->
-
-Configuration:
 **Examples of how to download**
 Arduino IDE is needed to run the code. All other configuration is completed by the code.
 
